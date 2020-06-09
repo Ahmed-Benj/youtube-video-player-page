@@ -10,7 +10,7 @@
 - HTML & CSS
 
 ## Live Demo
-- [Live Demo Link](https://john4pius.github.io/)
+- [Live Demo Link](https://ahmed-benj.github.io/youtube-video-player-page/)
 
 ## Getting Started
 
